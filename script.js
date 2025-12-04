@@ -5,16 +5,26 @@
     // BANCO DE DADOS - RESPOSTAS CORRETAS POR LIVRO
     const bancoRespostas = {
         "O menino que descobriu o vento": [
+            "Fecharam suas lojas.",
+            "Enfatizar que as pernas ficaram fracas, trêmulas e sem sustentação.",
+            "uma relação de restrição.",
+            "Enfado.",
+            " [...] a nsima é tão importante na nossa dieta que sem ela nos sentimos um peixe fora d'água.",
             "Empresa de Fornecimento de Eletricidade do Malaui.",
-            "Um moinho de vento com peças de ferro-velho.",
-            "Falta de eletricidade e seca.",
-            "Seu pai era o chefe da empresa.",
-            "Gerar eletricidade para sua casa.",
-            "William Kamkwamba.",
-            "Malaui.",
-            "Biblioteca da escola.",
-            "Usar o moinho para bombear água.",
-            "Energia eólica."
+            "são os gemidos de fome do cão da família.",
+            "Assim que a cliente tirava o balde do cano, as crianças se atiravam no chão e o lambiam.",
+            "uma saliência.",
+            "Quando o segui, Khamba levantou a cabeça e começou a gemer. Sabia que eu o estava abandonando.",
+            "‘Raio Mortal’.",
+            "Condição.",
+            "Agora, quando eu voltava para casa com minhas peças, ela me olhava e balançava a cabeça.",
+            "indicam que trata-se de um pensamento do narrador.",
+            "Geoffrey.",
+            "Narrador em 1ª pessoa.",
+            "vampiros que roubavam partes do corpo das pessoas e as vendiam.",
+            "Uma catástrofe foi evitada, mas ainda assim revelou um atraso de nosso povo que realmente me frustra.",
+            "contentamento.",
+            "A perseverança e a crença no poder da dedicação para alcançar os objetivos."
         ],
         
         "Dom Casmurro": [
